@@ -1,7 +1,7 @@
-#dingo_install_doc
+# dingo_install_doc
 
 
-###手动添加 "dingo/api": "2.0.0-alpha2"
+### 手动添加 "dingo/api": "2.0.0-alpha2"
 
 
 ```
@@ -29,7 +29,7 @@ API_DEBUG=true
 ```
 鉴于线上环境项目维护者可能没有 root 权限，所以尽量不要再添加环境变量
 
-###如果是通过 git clone 将项目克隆到本地，则可以通过，在 ./.env.example 中添加
+### 如果是通过 git clone 将项目克隆到本地，则可以通过，在 ./.env.example 中添加
 
 ```
 # dingo config
